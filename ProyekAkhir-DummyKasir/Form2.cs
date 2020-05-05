@@ -8,12 +8,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ProyekAkhir_DummyKasir
-{
-    public partial class Form2 : Form
-    {
-        public Form2()
-        {
+namespace ProyekAkhir_DummyKasir {
+    public partial class Form2 : Form {
+        public Form2() {
             InitializeComponent();
         }
     }
